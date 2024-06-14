@@ -2,7 +2,6 @@
     "root": [
         { "name": "Souvik", "value": 1 },
         { "name": "Kala", "value":2 },
-        { "name": "Lala", "value":3 },
-        { "name": "Dala", "value":4 }
+        { "name": "Lala", "value":3 }
     ]
 }
