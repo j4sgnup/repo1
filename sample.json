@@ -1,0 +1,6 @@
+{
+    "main": [
+        { "category": "Cat1", "id": 1 },
+        { "category": "Cat2", "id":2 }
+    ]
+}
