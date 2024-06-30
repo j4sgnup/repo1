@@ -5,6 +5,8 @@
         { "name": "Lala", "value":3 },
         { "name": "Dala", "value":4 },
         { "name": "Nana", "value":5 },
-        { "name": "Kana", "value":6 }
+        { "name": "Kana", "value":6 },
+        { "name": "sana", "value":7 },
+        { "name": "pana", "value":8 }
     ]
 }
